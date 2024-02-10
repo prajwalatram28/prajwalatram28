@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-👋 Hi, I'm Prajwal Atram, passionate developer from Pune, India.<br>🏆 1st place winner at Prakalp Hackathon 2023 for AES Video Steganography.<br>💻 Skills: C, C++, SQL, React, HTML, CSS.<br>🎓 B.Tech in IT, Vishwakarma Institute of Technology, Pune, CGPA: 8.11.<br>🖥️ Developed C++ OS, adept in program management and error handling.<br>🛠️ Successfully led web projects for NGOs, active hackathon participant, published researcher.<br>🌟 Let's collaborate! 📧 prajwal.atram20@vit.edu | 📞 +91-9579313861.<br>🔗 LinkedIn: prajwal-atram.
+👋 Hi, I'm Prajwal Atram, passionate developer from Pune, India.<br>🏆 1st place winner at Prakalp Hackathon 2023 for AES Video Steganography.<br>💻 Skills: C, C++, SQL, React, HTML, CSS.<br>🎓 B.Tech in IT, Vishwakarma Institute of Technology, Pune.<br>🖥️ Developed C++ OS, adept in program management and error handling.<br>🛠️ Successfully led web projects for NGOs, active hackathon participant, published researcher.<br>🌟 Let's collaborate! 📧 prajwal.atram20@vit.edu | 📞 +91-9579313861.<br>🔗 LinkedIn: prajwal-atram.
 
 
 ## 🌐 Socials:
